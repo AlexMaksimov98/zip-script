@@ -1,0 +1,1 @@
+This is the script, which compares two .zip files. There is a function that requires two .zip files, compares them and prints all identical files and all unique files from both .zip files to the console.
